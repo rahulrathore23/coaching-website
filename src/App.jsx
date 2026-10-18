@@ -21,7 +21,7 @@ const courses = [
 
 function App() {
   // Replace this with the real business WhatsApp number.
-  const whatsapp = "https://wa.me/919876543210";
+  const whatsapp = "https://wa.me/919216848921";
 
   return (
     <>
